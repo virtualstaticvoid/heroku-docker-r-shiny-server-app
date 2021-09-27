@@ -7,7 +7,7 @@
     "shiny"
   ],
   "repository": "https://github.com/virtualstaticvoid/heroku-docker-r-shiny-server-app",
-  "logo": "https://github.com/virtualstaticvoid/heroku-docker-r-shiny-server-app/raw/master/logo.png",
+  "logo": "https://github.com/virtualstaticvoid/heroku-docker-r-shiny-server-app/raw/main/logo.png",
   "success_url": "/",
   "formation": {
     "web": {

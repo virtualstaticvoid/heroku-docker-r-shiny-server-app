@@ -2,7 +2,7 @@
 
 Example project showing how to run multiple Shiny applications using Shiny Server on Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/virtualstaticvoid/heroku-docker-r-shiny-server-app/tree/main)
 
 ## Usage
 
